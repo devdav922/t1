@@ -20,7 +20,7 @@ parts:
     nodejs-package-manager: 'npm'
 
 apps:
-  test-wethr:
+  devt12:
     command: wethr
 architectures:
   - build-on: [armhf,amd64]
