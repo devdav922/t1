@@ -24,7 +24,7 @@
     "ora": "^1.2.0"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^5.1.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.2"
   }
